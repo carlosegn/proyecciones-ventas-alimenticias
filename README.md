@@ -1,6 +1,6 @@
 # **Proyecciones de ventas alimenticias**
 
-En este repositorio encontrarán información acerca de la proyección de ventas alimenticias realizada con árboles de regresión, en el transcurso de este proyecto limpié la data, realicé un análisis de las características, preparé la data para el aprendizaje automático y ejecuté los modelos de regresión lineal y árboles de regresión, siendo los segundos el modelo escogido para las predicciones de ventas.
+En este repositorio encontrarán información acerca de la proyección de ventas alimenticias realizada con árboles de regresión, en el transcurso de este proyecto limpié la data, realicé un análisis de las características, preparé la data para el aprendizaje automático y ejecuté los modelos de regresión lineal y árbol de regresión, siendo el segundo el modelo escogido para las predicciones de ventas.
 
 Se encuentran subidos al repositorio los Notebooks de Google Colab, la presentación en PowePoint y una grabación de la explicación de dicha presentación.
 
